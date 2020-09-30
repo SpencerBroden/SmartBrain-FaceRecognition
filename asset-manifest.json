@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SmartBrain-FaceRecognition/static/css/main.321c06f7.chunk.css",
-    "main.js": "/SmartBrain-FaceRecognition/static/js/main.eb73974c.chunk.js",
-    "main.js.map": "/SmartBrain-FaceRecognition/static/js/main.eb73974c.chunk.js.map",
+    "main.js": "/SmartBrain-FaceRecognition/static/js/main.1e499880.chunk.js",
+    "main.js.map": "/SmartBrain-FaceRecognition/static/js/main.1e499880.chunk.js.map",
     "runtime-main.js": "/SmartBrain-FaceRecognition/static/js/runtime-main.9baec025.js",
     "runtime-main.js.map": "/SmartBrain-FaceRecognition/static/js/runtime-main.9baec025.js.map",
     "static/css/2.3c03f26f.chunk.css": "/SmartBrain-FaceRecognition/static/css/2.3c03f26f.chunk.css",
     "static/js/2.4ca91bdd.chunk.js": "/SmartBrain-FaceRecognition/static/js/2.4ca91bdd.chunk.js",
     "static/js/2.4ca91bdd.chunk.js.map": "/SmartBrain-FaceRecognition/static/js/2.4ca91bdd.chunk.js.map",
     "index.html": "/SmartBrain-FaceRecognition/index.html",
-    "precache-manifest.e702a8edc7e492246992a504b4217480.js": "/SmartBrain-FaceRecognition/precache-manifest.e702a8edc7e492246992a504b4217480.js",
+    "precache-manifest.6a8c7309c84310113a6f4f45988ede17.js": "/SmartBrain-FaceRecognition/precache-manifest.6a8c7309c84310113a6f4f45988ede17.js",
     "service-worker.js": "/SmartBrain-FaceRecognition/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/SmartBrain-FaceRecognition/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.321c06f7.chunk.css.map": "/SmartBrain-FaceRecognition/static/css/main.321c06f7.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.4ca91bdd.chunk.js",
     "static/css/main.321c06f7.chunk.css",
-    "static/js/main.eb73974c.chunk.js"
+    "static/js/main.1e499880.chunk.js"
   ]
 }
